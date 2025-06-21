@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @Muhammedtp
-- 👀 I’m interested in app and web development
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi there 👋 I'm Muhammed
 
-<!---
-Muhammedtp/Muhammedtp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a final-year CSE student passionate about:
+- 🧠 Understanding the inetrnal working of popular softwares.
+- 💻 Systems programming (C, Java, Python)
+- 🛠️ Building tools from scratch.
+- 
+## 🔥 My GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammedtp&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedtp&layout=compact)
+
+## 📫 Connect with me
+- 📧 Email: muhammedtp246@email.com
+- 🌐 Linkedin: https://www.linkedin.com/in/muhammedbinshafeeqtp
